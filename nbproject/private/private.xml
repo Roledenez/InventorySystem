@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/AddItem.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Payments.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/MainWindow.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/app/MySqlBackup.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/AddVehical.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/ShopUI.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/LogIn.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/DB/DBType.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/BillTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/AddCompaney.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/VehicalInventoryTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/StaffTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/PaymentTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/InvoiceItemTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/DB/DBUtil.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/AddInvoice.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Beans/Discount.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/InventorySystem.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/AddToVehicle.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/ShopTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/app/Autocomplete.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Test.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Beans/Company.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Tables/DiscountTable.java</file>
+            <file>file:/D:/Java%20project/Inventory%20System%20Java%2024.10.2014/InventorySystem/src/inventorysystem/Beans/Cheque.java</file>
+        </group>
+    </open-files>
+</project-private>
